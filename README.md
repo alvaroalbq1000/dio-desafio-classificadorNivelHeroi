@@ -3,4 +3,6 @@ Minha resolução do desafio "Classificador de Nível de Herói", do Bootcamp Po
 
 Desafio proposto pelo especialista [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
+Resolução no arquivo classificadorNivelHeroi.js
+
 Além da resolução, complementei com um laço FOR que aumenta o xp do Herói com o tempo (alguns segundos)
